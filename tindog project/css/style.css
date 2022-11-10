@@ -1,0 +1,119 @@
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+    margin-left: 0%;
+}
+
+#cta{
+    text-align: center;
+ }
+ #title{
+     height: 700px;
+     text-align: center;
+ }
+ #features{
+     text-align: center;
+     padding: 7% 15%;
+ }
+
+ #testimonial{
+   
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+#pricing{
+    text-align: center;
+    padding:50px;
+}
+
+#footer{
+    text-align: center;
+    padding: 7% 15%;
+}
+
+#cta{
+    background-color: #ff4c68;
+    height: 300px;
+    color: white;
+   
+    padding-top: 20px;
+}
+
+
+
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+.muller{
+    color: white;
+}
+.heading1{
+    font-family: "Montserrat-Black";
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+    
+}
+
+h3{
+    font-weight: bold;
+}
+
+p{
+    color: #8f8f8f;
+}
+i{
+   color: #ef8172;
+    margin-bottom: 1rem;
+}
+i:hover{
+    color: #ff4c68;
+}
+
+.testimonial_image{
+    width: 20%;
+    border-radius: 100%;
+}
+
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.mycolumn{
+    padding: 3%;
+}
+
+.imagephone{
+    width: 60%;
+    transform: rotate(25deg);
+   
+    
+}
+
+
+
+.me{
+    padding-top: 20px;
+}
+
+.fa-brands{
+    color: #8f8f8f;
+    height: 15px;
+    width: 14px;
+    padding: 14px;
+}
+p{
+    padding-top: 10px;
+}
+
+@media (max-width:1024px){
+    .imagephone{
+        position: static;
+        height: 100px;
+        transform: rotate(0);
+        padding-top: 18px;
+        
+        
+    }
